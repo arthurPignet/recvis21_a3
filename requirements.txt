@@ -1,3 +1,7 @@
 torch
 torchvision
 tqdm
+pycocotools
+torchsummary
+kymatio
+PIL
