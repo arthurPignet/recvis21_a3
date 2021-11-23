@@ -6,7 +6,7 @@
 
 #### Original challenge
 
-This repository is based on the assigment original repository, which can be found here: https://github.com/willowsierra/recvis21_a3.
+This repository is based on the assigment's original repository, which can be found here: https://github.com/willowsierra/recvis21_a3.
 
 Project Organization
 ------------
